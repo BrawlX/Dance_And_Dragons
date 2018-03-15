@@ -1,4 +1,4 @@
-# Simply Love (StepMania 5) ~Modified~
+# Simply Love (StepMania 5) **Modified**
 
 ![Arrow Logo](http://i.imgur.com/FyeguCQ.png)
 ======================

@@ -1,0 +1,6 @@
+Grades (a, a-, a+, b, etc.) are 200 x 200 pixels (Graphics\_grades\graphic)
+Scores are all in 1 image (440 x 444 pixels) called Love 2x6 (Graphics\_judgments\Competitive)
+Arrows in title screen are 2880 x 360 pixels (Graphics\_logos)
+Heart image when picking colour is 688 x 566 (Graphics)
+Hearts that appear on the title screen are 2048 x 2048 (BGAnimations\_shared background normal)
+Name of game (1920 x 1440) and heart transitions (BGAnimations\ScreenTitleMenu underlay)
